@@ -23,11 +23,6 @@
 ## Self Hosting <a id="self-hosting-1"></a>
 
 * [Self Hosting](self-hosting-1/self-hosting.md)
-
-## Development
-
-* [Untitled](development/untitled-1.md)
-* [Untitled](development/untitled.md)
 * [FAQ](faq.md)
 
 ## PXE Booting Knowledgebase
